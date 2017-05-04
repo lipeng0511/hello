@@ -1,0 +1,19 @@
+{
+	"index.html": {
+		"resources": [
+			"js/index.js",
+			"xiaozitiao.html"
+		],
+		"refer": [
+			"xiaozitiao.html"
+		]
+	},
+	"xiaozitiao.html": {
+		"resources": [
+			"css/xiaozitiao.css",
+			"img/xiaozitiao/sy.png",
+			"css/style.css",
+			"img/xiaozitiao/xzt-zs.png"
+		]
+	}
+}

@@ -1,0 +1,58 @@
+.cen{
+	width: 100%;
+	
+}
+.cen .box{
+	width: 6rem;
+	margin: 0 auto;
+	
+}
+.cen .box div{
+	width: 100%;
+	height: 0.78rem;
+	box-sizing: border-box;
+	border: 1px solid #CCCCCC;
+	margin-top: .2rem;
+	padding-left: .2rem;
+	position: relative;
+}
+.cen .box div .ipt{
+	width: 100%;
+	height: 0.76rem;
+	font-size: 0.3rem;
+	color: #999999;
+}
+.cen .box div .ipt1{
+	width: 4rem;
+	height: 0.76rem;
+	font-size: 0.3rem;
+	color: #999999;
+}
+.cen .box div span{
+	width: 2rem;
+	text-align: center;
+	line-height: 0.78rem;
+	background: #df007f;
+	color: #FFFFFF;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 0.3rem;
+}
+.cen .box .box1{
+	position: fixed;
+	bottom: 0px;
+	margin-top: 2.6rem;
+	padding-left:0.2rem !important;
+}
+ .cen .box .box1 .btn1{
+ 	width: 100%;
+ 	height: 0.78rem;
+ 	background: #df007f;
+ 	color: #FFFFFF;
+ 	line-height: 0.78rem;
+ 	text-align: center;
+ 	border: 0px;
+ 	font-size: 0.3rem;
+ }

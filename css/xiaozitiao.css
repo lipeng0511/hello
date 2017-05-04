@@ -1,0 +1,27 @@
+
+.cen{
+	margin-top: 0.3rem;
+	width: 100%;
+}
+.cen .top{
+	width: 6rem;
+	margin: 0 auto;
+}
+.cen .top .tit{
+	text-align: center;
+	width: 100%;
+	font-size:0.26rem;
+	color: #333333;
+}
+.cen .top .nr{
+	margin-top: 0.36rem;
+	text-indent: 2em;
+	font-size: 0.28rem;
+	color: #999999;
+}
+.cen .top .fbsj{
+	font-size: 0.24rem;
+	color: #999999;
+	margin-top: 0.72rem;
+	margin-bottom: 1.64rem;
+}

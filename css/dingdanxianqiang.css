@@ -1,0 +1,110 @@
+.cen{
+	width: 100%;
+}
+.cen .box1{
+	text-align: center;
+	color: #666666;
+	font-size: 0.24rem;
+	width: 100%;
+	height: 0.66rem;
+	background: #f2f2f2;
+	line-height: 0.66rem;
+}
+.cen .box2{
+	width: 100%;
+	margin-top: 0.2rem;
+	padding-left: 0.4rem;
+	box-sizing: border-box;
+}
+.cen .box2 .p1 i{
+	color: #666666;
+	font-size: 0.26rem;
+	line-height: 0.6;
+}
+.cen .box2 .p1{
+	color: #333333;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	font-size: 0.26rem;
+}
+.cen .box3{
+	height: 1.92rem;
+	width: 100%;
+	margin-top: 0.25rem;
+	box-sizing: border-box;
+	border-top:1px solid #cccccc ;
+	border-bottom:1px solid #cccccc ;
+}
+.cen .box3 .tu{
+	width: 1.92rem;
+	height: 1.52rem;
+	margin:.2rem ;
+}
+.cen .box3 .tu img{
+	width: 100%;
+	height: 100%;
+}
+.cen .box3 .wz{
+	margin-left: .2rem;
+	margin:.2rem ;
+}
+.cen .box3 .wz .p1{
+	color: #333333;
+	font-size: .26rem;
+}
+.cen .box3 .wz .p2{
+	color: #999999;
+	font-size: .24rem;
+	margin-top: 0.42rem;
+}
+.cen .box4{
+	width: 100%;
+	color: #666666;
+	height: .65rem;
+	line-height: .65rem;
+	box-sizing: border-box;
+	padding:0rem 0.2rem ;
+	overflow: hidden;
+}
+.cen .box4 .let{
+	width: 3rem;
+	height: .65rem;
+	font-size: 0.24rem;
+}
+.cen .box4 .rit{
+	width: 3rem;
+	height: .65rem;
+	font-size: 0.24rem;
+	text-align: right;
+}
+.cen .box5{
+	width: 100%;
+	height: .72rem;
+	background: #f5f5f5;
+	box-sizing: border-box;
+	padding:.12rem .2rem;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+}
+.cen .box5 .btn1{
+	width: 1.15rem;
+	height: .47rem;
+	background:#df007f;
+	float: right;
+	color:white;
+	border: 0px;
+	border-radius: 0.05rem;
+	font-size: .2rem;
+	margin-left: .2rem;
+}
+.cen .box5 .btn2{
+	width: 1.15rem;
+	height: .47rem;
+	background: #FFFFFF;
+	float: right;
+	border: 0px;
+	border-radius: 0.05rem;
+	color: #646464;
+	font-size: .2rem;
+}
+
